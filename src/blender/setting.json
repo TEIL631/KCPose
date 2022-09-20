@@ -1,0 +1,15 @@
+{
+    "object_name": "fill in your object name",
+    "px_width": "fill in image resolution",
+    "px_height": "fill in image resolution",
+    "bnd_width": "fill in  bounding box size for key component",
+    "training_data_number": "fill in number of training data",
+    "cad_movement":{
+        "translation": {"note": "set the range of translation in Blender"},
+        "rotation": {"note": "set the range of rotation in Blender"}
+      },
+    "python_bin": "Create an virtual env of python 3.9 and set the env path here",
+    "yolo_image_path": "Set your yolo training image path",
+    "yolo_xml_path": "Set your yolo xml annotation path",
+    "yolo_txt_path": "Set your yolo txt annotation path"
+}

@@ -1,0 +1,15 @@
+{
+    "object_name": "003_cracker_box",
+    "px_width": "640",
+    "px_height": "480",
+    "bnd_width": "32",
+    "training_data_number": "10",
+    "cad_movement":{
+        "translation": {"x-axis": [-0.01, 0.01], "y-axis": [0.04, 0.04], "z-axis": [0.3, 0.5]},
+        "rotation": {"x-axis": [0, 6.28], "y-axis": [0, 6.28], "z-axis": [0, 6.28]}
+      },
+    "python_bin": "/home/osiris/anaconda3/envs/python39/bin/python",
+    "yolo_image_path": "/home/osiris/Heling/KCPose/yolo/image/",
+    "yolo_xml_path": "/home/osiris/Heling/KCPose/yolo/xml/",
+    "yolo_txt_path": "/home/osiris/Heling/KCPose/yolo/yoloData/"
+}
